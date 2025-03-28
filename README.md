@@ -3,6 +3,7 @@
 > Степин Степан | 10-1 группа
 
 ## *Задание:*
+~~~shell
 
 
 #!/bin/bash
@@ -27,10 +28,10 @@ echo "Файл:"
 
 cat $output_file
 
-
+~~~
 ## Пример работы скрипта (содержимое $output_file):
 
-
+~~~text
 /bin.usr-is-merged
 /boot
 /dev
@@ -46,7 +47,7 @@ cat $output_file
 /srv
 /usr
 /var
-
+~~~
 
 ### Примечание
 
